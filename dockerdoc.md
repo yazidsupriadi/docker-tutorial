@@ -1,10 +1,10 @@
-#####docker pull
+##### docker pull
 ----
 ```
 docker pull image-name
 ```
 
-#####check existing images
+##### check existing images
 ```
 docker images
 ```
